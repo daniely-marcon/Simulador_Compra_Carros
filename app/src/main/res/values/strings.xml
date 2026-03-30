@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CompraCarro</string>
+    <string-array name="Acessorios">
+        <item>Nenhum</item>
+        <item>Roda de Liga Leve</item>
+        <item>Teto Solar</item>
+        <item>Som Premium</item>
+    </string-array>
+    <string-array name="cores">
+        <item>Preto</item>
+        <item>Branco</item>
+        <item>Vermelho</item>
+        <item>Azul</item>
+    </string-array>
+</resources>
